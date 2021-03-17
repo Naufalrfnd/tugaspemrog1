@@ -1,0 +1,100 @@
+body {
+  background-color: #fff;
+  font-family: 'Assistant', sans-serif;
+  color: #071C4D;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+
+}
+
+.navbar-brand img {
+  max-height: 40px;
+}
+
+.btn-navbar-right {
+  margin-top: -10px !important;
+  margin-bottom: -8px !important;
+  margin-right: -18px !important;
+  height: 70px;
+  border-radius: 0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #071C4D;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  font-weight: bold;
+  color: #071C4D !important;
+}
+
+.btn-login {
+  background-color: #071C4D;
+  color: #fff;
+}
+
+.btn-login:hover {
+  color: #fff;
+}
+
+header {
+  padding: 180px 0 300px;
+  background-image: url("../images/Desktop\ -\ 1.png");
+  background-size: cover;
+
+}
+
+header h1,
+header p {
+  color: #fff;
+}
+
+header h1 {
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+}
+
+header .btn-get-started {
+  background-color: #071C4D;
+  color: #fff;
+
+}
+
+header .btn-get-started:hover {
+  color: rgb(243, 198, 198);
+}
+
+
+.section-biodata {
+  min-height: 440px;
+  background: #fff;
+  margin-top: -50px;
+  margin-bottom: 23px;
+
+}
+
+.section-biodata .section-biodata-heading {
+  margin-top: 100px;
+}
+
+.section-biodata .section-biodata-heading h2,
+.section-biodata .section-biodata-heading p {
+  color: #071C4D;
+}
+
+.section-biodata .section-biodata-heading h2 {
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+}
+
+.card {
+
+  background-color: aqua;
+
+}
+
+.section-footer a {
+  color: #071c4d;
+}
+
+/*# sourceMappingURL=main.css.map */
