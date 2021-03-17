@@ -1,0 +1,10 @@
+WEBSITE BIODATA NAUFAL ARFANDI
+make with : html,css (bootstrap), javascript(jquery)
+ Website ini bisa diakses melalui link github saya
+Silahkan copy paste ke browser : https://naufalrfnd.github.io/tugaspemrog1
+Nama : Naufal Arfandi
+NIM  : A710190023
+Kelas: Pemograman Web A
+Dosen: Bapak Ahmad Chamsudin S.T., M.T
+
+ 
